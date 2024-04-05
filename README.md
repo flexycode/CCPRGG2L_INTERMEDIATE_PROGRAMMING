@@ -7,3 +7,5 @@
 
 ## [Introduction](#introduction)
 This repository contains source code for a Java project that focuses on Intermediate concepts, codes and exercises.
+
+## Today is the class will modify this later
