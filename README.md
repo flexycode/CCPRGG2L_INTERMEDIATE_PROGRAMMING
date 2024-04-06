@@ -24,8 +24,8 @@ At the end of the course, the studend must be able to:
 ### CCPRGG1L Table lecture
 #### Course Outline and Timeframe
 
-| Week No. | Date Coverage    | Topic                                     | Topic                                                             | Reference                                                             |
-|----------|------------------|-------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Week No. | Date Coverage    |                                       Topic                                                                   | Reference                                                             |
+|----------|--------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 1        | Dec. 2-3         | Class Orientation                         | Ø University Mission & Vision                                     | Course Syllabus                                                       | 
 |          |                  |                                           | Ø College Mission & Vision                                        |                                                                       |
 |          |                  |                                           | Ø Lab Guidelines and Safety Review Course Syllabus                |                                                                       |
