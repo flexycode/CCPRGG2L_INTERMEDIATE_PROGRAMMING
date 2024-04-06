@@ -8,7 +8,10 @@
 ## [Introduction](#introduction)
 This repository contains source code for a Java project that focuses on Intermediate concepts, codes and exercises.
 
-###### ⚡ Course Outline: https://nationalueduph.sharepoint.com/:w:/r/sites/FundamentalsofProgramming-CCPRGG1LCOM23P/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5e6c8bed-44a9-4add-a947-3c727bf33daa%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1707804185955&web=1 
+#### Course Description:
+This course is a continuation of CCPRGG1L - Fundamentals of Programming. The course covers advanced topics in Java to train students in developing robust programs. Topics to be covered include recursion, regular expression, basic object-oriented principles, graphics, and multithreaded programming.
+
+###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM
   
 ### CCPRGG1L Table lecture
 
