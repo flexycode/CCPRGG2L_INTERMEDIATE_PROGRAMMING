@@ -17,6 +17,7 @@ This course is a continuation of CCPRGG1L - Fundamentals of Programming. The cou
 At the end of the course, the studend must be able to:
 1. Create a program that uses recursions and regular expressions
 2. Implement Object-Oriented in program design
+3. Create and document application that uses a modern graphical user interface (GUI)
 
 ###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM
   
