@@ -16,7 +16,7 @@ This course is a continuation of CCPRGG1L - Fundamentals of Programming. The cou
 #### Course outcomes:
 At the end of the course, the studend must be able to:
 1. Create a program that uses recursions and regular expressions
-
+2. Implement Object-Oriented in program design
 
 ###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM
   
