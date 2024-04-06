@@ -30,7 +30,7 @@ At the end of the course, the studend must be able to:
 
 ###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM
 
-# 💻 FUNDAMENTALS OF PROGRAMMING  
+# 💻 INTERMEDIATE PROGRAMMING  
 ### CCPRGG1L Table lecture
 #### Course Outline and Timeframe
 
@@ -46,15 +46,15 @@ At the end of the course, the studend must be able to:
 |          | April 27         |                                                                                                               | An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick          |
 |          |                  |                                                                                                               | Chapter 13 Java Programming: From Problem Analysis to                 | 
 |          |                  |                                                                                                               | Program Design, Fifth Edition., Malik, DS                             |
-| 5        | May 24 - 28      | Regular Expression                                                                                            | Chapter 30 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
-| 6        | May 31           | Introduction to Classes                                                                                       | Chapter 3 Java Programming Eight Edition, Farrell, Joyce            |
-| 7        | June 7           | Composition, objects, and classes                                                                             | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd     Edition, Robert Sedgewick |
-| 8        | June 14          | Instance method Inheritance Polymorphism  | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition., Malik, DS |
-| 9        | June 21          | Introduction to Swing package             | Chapter 14 Java Programming Eight Edition, Farrell, Joyce           |
-| 10       | June 28          | Interfaces and event-driven programming   | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
-| 11       | July 7           | Threads                                   | Chapter 11 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
-| 12       | July 14          | Runnable interface Synchronization        | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
-| 13       | July 21          | Course Synthesis & Final Examination      |                                                                       |
+| 5        | May 4            | Regular Expression                                                                                            | Chapter 30 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
+| 6        | May 11           | Introduction to Classes                                                                                       | Chapter 3 Java Programming Eight Edition, Farrell, Joyce            |
+| 7        | May 18           | Composition, objects, and classes                                                                             | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd     Edition, Robert Sedgewick |
+| 8        | May 25           | Instance method Inheritance Polymorphism  | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition., Malik, DS |
+| 9        | June 1           | Introduction to Swing package             | Chapter 14 Java Programming Eight Edition, Farrell, Joyce           |
+| 10       | June 8           | Interfaces and event-driven programming   | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
+| 11       | June 15          | Threads                                   | Chapter 11 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
+| 12       | July 29          | Runnable interface Synchronization        | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
+| 13       | July 6          | Course Synthesis & Final Examination       |                                                                       |
 
 
 # 💻 FUNDAMENTALS OF PROGRAMMING 
