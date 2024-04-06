@@ -82,6 +82,9 @@ Long Exams (40%)
 Final Exam/Project (40%)
 
 # ✍️Exercise
+```bash
+coming soon
+```
 
 ## How to Use
 
@@ -162,7 +165,6 @@ To be follow
 
 ### Changed
 - ✨ revised icon
-- ✨ 
 
 ### Fixed
 - Revised my documentaion
