@@ -7,6 +7,15 @@
 
 # 📊 Table of Contents
 
+- [Introduction](#introduction)
+- [Lesson](#lesson)      
+- [Exercise](#%EF%B8%8Fexercise)
+- [Contributing](#contributing)       
+- [License](#licensee)   
+- [Acknowledgements](#acknowledgements) 
+- [FAQ](#faq)      
+- [Changelog](#changelogs)  
+
 ## [Introduction](#introduction)
 This repository contains source code for a Java project that focuses on Intermediate concepts, codes and exercises.
 
@@ -20,7 +29,8 @@ At the end of the course, the studend must be able to:
 3. Create and document application that uses a modern graphical user interface (GUI)
 
 ###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM
-  
+
+# 💻 FUNDAMENTALS OF PROGRAMMING  
 ### CCPRGG1L Table lecture
 #### Course Outline and Timeframe
 
@@ -47,15 +57,93 @@ At the end of the course, the studend must be able to:
 | 13       | July 21          | Course Synthesis & Final Examination      |                                                                       |
 
 
+# 💻 FUNDAMENTALS OF PROGRAMMING 
+
+## How to Use
+
+### Clone Repository
+
+1. Clone the repository to your local machine.
+
+   ```bash 
+   git clone [repository-url] 
+
+2. Navigate to the relevant code file (e.g., ProgScanner.java).
+
+### Compile and Run
+
+🤖 Compile the Java code using javac and run the compiled program with java.
 
 
-- [Introduction](#introduction)
-- [Lesson](#lesson)      
-- [Exercise](#%EF%B8%8Fexercise)
-- [Contributing](#contributing)       
-- [License](#licensee)   
-- [Acknowledgements](#acknowledgements) 
-- [FAQ](#faq)      
-- [Changelog](#changelogs)         
+```bash
+javac ProgScanner.java
+java ProgScanner
+```
 
-# 💻 FUNDAMENTALS OF PROGRAMMING  
+# 🏆 Contributing 
+
+
+### 🧠 Submitting Changes
+
+🧠 Contributions are welcome! If you have ideas for improvements or want to add more exercises, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Push to your fork and submit a pull request.
+
+### 🛸 Reporting Issues
+
+###### 🤖 If you encounter any issues or have suggestions, please open an issue to let us know.
+
+# 🔑 License 
+
+This course project repository is licensed under the MIT License and National University.
+
+## National University of Manila License   
+
+The National University of Manila License grants permission to students of the National University of Manila to use, modify, and distribute this project for educational purposes within the scope of their coursework and assignments.
+
+### Usage 
+
+- You may use this project as a reference or learning material for your studies at the National University of Manila.
+- You may modify the project to suit your educational needs and requirements.
+- You may share the project with your fellow students or instructors for educational purposes.
+
+### Restrictions
+
+- You may not use this project for commercial purposes.
+- You may not redistribute or publish this project outside the National University of Manila without explicit permission.
+
+## Disclaimer
+
+This project is provided "as is" without warranty of any kind, express or implied. The National University of Manila and the project contributors disclaim any liability or responsibility for any direct, indirect, incidental, special, exemplary, or consequential damages arising out of the use or misuse of this project.
+
+
+# 🔭Acknowledgements   
+
+## Professor Jay A. Abaleta 
+Professor Jay Abaleta is a Senior Software Engineer and esteemed faculty member at National University. With a strong background in teaching the core principles and advanced concepts of Java, he is highly regarded in the field. In addition to his role at National University, Prof. Abaleta also serves as a Professor at Adamson University and as a lecturer of IT/CS at Arba Minch University, sharing his expertise with students worldwide. Having studied at St. Paul University Philippines, Prof. Abaleta brings a wealth of knowledge and experience to his teaching. Known for his friendly and approachable nature, Prof. Abaleta fosters a positive learning environment where students thrive. His dedication and passion for teaching have made him a beloved professor among his students.
+
+# 💬FAQ    
+```bash  
+To be follow
+```
+
+# 📫 Changelogs     
+## [4.1.1] - 2024-04-6     
+### Added
+- Uploaded the Course Syllabus
+- Added breakdown and documentation
+
+### Changed
+- Changed some java source code file
+- Fix some changes in both Java and Python code
+
+### Fixed
+- Fixed some error in java methods and classes
+- Revised my documentaion
+
+#### [Back to Table of Content](#introduction)    
+
+ 
