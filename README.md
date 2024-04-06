@@ -24,7 +24,7 @@ At the end of the course, the studend must be able to:
 ### CCPRGG1L Table lecture
 #### Course Outline and Timeframe
 
-| Week No. | Date             | Coverage                                  | Topic                                                             | Reference                                                             |
+| Week No. | Date Coverage    | Topic                                     | Topic                                                             | Reference                                                             |
 |----------|------------------|-------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
 | 1        | Dec. 2-3         | Class Orientation                         | Ø University Mission & Vision                                     | Course Syllabus                                                       | 
 |          |                  |                                           | Ø College Mission & Vision                                        |                                                                       |
@@ -32,7 +32,7 @@ At the end of the course, the studend must be able to:
 |          |                  |                                           | Ø Course Syllabi                                                  |                                                                       |
 |          |                  |                                           | Ø Lab Guidelines and Safety Review Course Syllabus                |                                                                       | 
 | 2        | Dec. 6-10        | Arrays                                    | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce        |
-| 3        | Dec. 13-17       | File and String manipulation              | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce         |
+| 3        | Dec. 13-17       | File and String manipulation              | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce       |
 | 4        | Dec. 20-22       | Jan. 3-7                                  | Recursion                                                         | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
 |          |                  |                                           | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition., Malik, DS |
 | 5        | Jan. 24 - 28     | Regular Expression                        | Chapter 30 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
