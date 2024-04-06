@@ -2,6 +2,7 @@
 ### Name: Jay Arre Talosig  
 ### Subject & Section: CCPRGG2L COM23P   
 ### Professor: Jay D. Abaleta          
+### No. of Units: 3
 
 # 📊 Table of Contents
 
