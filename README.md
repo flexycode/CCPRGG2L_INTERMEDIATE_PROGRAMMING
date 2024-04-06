@@ -26,7 +26,7 @@ At the end of the course, the studend must be able to:
 
 | Week No. | Date             | Coverage                                  | Topic                                                             | Reference                                                             |
 |----------|------------------|-------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
-| 1        | Dec. 2-3         | Class Orientation                         | Ø University Mission & Vision                                     |                                                                       | 
+| 1        | Dec. 2-3         | Class Orientation                         | Ø University Mission & Vision                                     | Course Syllabus                                                        | 
 |          |                  |                                           | Ø College Mission & Vision                                        |                                                                       |
 |          |                  |                                           | Ø Lab Guidelines and Safety Review Course Syllabus                |                                                                       |
 |          |                  |                                           | Ø Course Syllabi
