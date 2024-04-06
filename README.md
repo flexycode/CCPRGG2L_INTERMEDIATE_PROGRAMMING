@@ -3,6 +3,7 @@
 ### Subject & Section: CCPRGG2L COM23P   
 ### Professor: Jay D. Abaleta          
 ### No. of Units: 3
+### Prerequisite: [CCPRGG1L Fundamentals of Programming](https://github.com/flexycode/CCPRGG1L_FUNDAMENTALS_COM23P)
 
 # 📊 Table of Contents
 
