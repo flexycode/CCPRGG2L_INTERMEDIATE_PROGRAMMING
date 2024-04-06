@@ -30,7 +30,8 @@ At the end of the course, the studend must be able to:
 
 ###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM
 
-# 💻 INTERMEDIATE PROGRAMMING  
+# 💻 Lesson
+
 ### CCPRGG1L Table lecture
 #### Course Outline and Timeframe
 
@@ -54,10 +55,10 @@ At the end of the course, the studend must be able to:
 | 10       | June 8           | Interfaces and event-driven programming   | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
 | 11       | June 15          | Threads                                   | Chapter 11 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
 | 12       | July 29          | Runnable interface Synchronization        | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
-| 13       | July 6          | Course Synthesis & Final Examination       |                                                                       |
+| 13       | July 6           | Course Synthesis & Final Examination      |                                                                       |
 
 
-# 💻 FUNDAMENTALS OF PROGRAMMING 
+# ✍️Exercise
 
 ## How to Use
 
@@ -122,7 +123,7 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 # 🔭Acknowledgements   
 
-## Professor Jay A. Abaleta 
+### ✨ Professor Jay A. Abaleta 
 Professor Jay Abaleta is a Senior Software Engineer and esteemed faculty member at National University. With a strong background in teaching the core principles and advanced concepts of Java, he is highly regarded in the field. In addition to his role at National University, Prof. Abaleta also serves as a Professor at Adamson University and as a lecturer of IT/CS at Arba Minch University, sharing his expertise with students worldwide. Having studied at St. Paul University Philippines, Prof. Abaleta brings a wealth of knowledge and experience to his teaching. Known for his friendly and approachable nature, Prof. Abaleta fosters a positive learning environment where students thrive. His dedication and passion for teaching have made him a beloved professor among his students.
 
 # 💬FAQ    
@@ -137,11 +138,10 @@ To be follow
 - Added breakdown and documentation
 
 ### Changed
-- Changed some java source code file
-- Fix some changes in both Java and Python code
+- ✨ revised icon
+- ✨ 
 
 ### Fixed
-- Fixed some error in java methods and classes
 - Revised my documentaion
 
 #### [Back to Table of Content](#introduction)    
