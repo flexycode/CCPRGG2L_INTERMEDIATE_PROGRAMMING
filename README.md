@@ -22,6 +22,7 @@ At the end of the course, the studend must be able to:
 ###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM
   
 ### CCPRGG1L Table lecture
+#### Course Outline and Timeframe
 
 | Week No. | Date             | Coverage                                  | Topic                                                             | Reference                                                             |
 |----------|------------------|-------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
