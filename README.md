@@ -30,7 +30,7 @@ At the end of the course, the studend must be able to:
 |          |                  |                                           | Ø College Mission & Vision                                        |                                                                       |
 |          |                  |                                           | Ø Lab Guidelines and Safety Review Course Syllabus                |                                                                       |
 |          |                  |                                           | Ø Course Syllabi
-|                                                                         | Ø Lab Guidelines and Safety Review Course Syllabus
+|          |                  |                                           | Ø Lab Guidelines and Safety Review Course Syllabus
 | 2        | Dec. 6-10        | Arrays                                    | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce         |
 | 3        | Dec. 13-17       | File and String manipulation              | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce         |
 | 4        | Dec. 20-22       | Jan. 3-7                                  | Recursion                                                         | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
