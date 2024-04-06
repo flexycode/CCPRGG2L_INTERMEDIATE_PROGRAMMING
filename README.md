@@ -36,19 +36,18 @@ At the end of the course, the studend must be able to:
 |          | May 3-7          |                                                                                                               | An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick          |
 |          |                  |                                                                                                               | Chapter 13 Java Programming: From Problem Analysis to                 | 
 |          |                  |                                                                                                               | Program Design, Fifth Edition., Malik, DS                             |
-| 5        | Jan. 24 - 28     | Regular Expression                        | Chapter 30 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
-| 6        | Jan. 31- Feb. 4  | Introduction to Classes                   | Chapter 3 Java Programming Eight Edition, Farrell, Joyce            |
-| 7        | Feb. 7 - 11      | Composition, objects, and classes         | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
-| 8        | Feb. 14-18       | Instance method Inheritance Polymorphism  | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition., Malik, DS |
-| 9        | Feb. 21- 25      | Introduction to Swing package             | Chapter 14 Java Programming Eight Edition, Farrell, Joyce           |
-| 10       | Feb. 28 – Mar. 4 | Interfaces and event-driven programming   | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
-| 11       | Mar. 7 - 11      | Threads                                   | Chapter 11 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
-| 12       | Mar. 14 – 18     | Runnable interface Synchronization        | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
-| 13       | March 21-26      | Course Synthesis & Final Examination      |                                                                       |
+| 5        | May 24 - 28      | Regular Expression                                                                                            | Chapter 30 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
+| 6        | May 31           | Introduction to Classes                                                                                       | Chapter 3 Java Programming Eight Edition, Farrell, Joyce            |
+| 7        | June 7           | Composition, objects, and classes                                                                             | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd     Edition, Robert Sedgewick |
+| 8        | June 14          | Instance method Inheritance Polymorphism  | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition., Malik, DS |
+| 9        | June 21          | Introduction to Swing package             | Chapter 14 Java Programming Eight Edition, Farrell, Joyce           |
+| 10       | June 28          | Interfaces and event-driven programming   | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
+| 11       | July 7           | Threads                                   | Chapter 11 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
+| 12       | July 14          | Runnable interface Synchronization        | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
+| 13       | July 21          | Course Synthesis & Final Examination      |                                                                       |
 
 
 
-/// Need a table ///
 
 - [Introduction](#introduction)
 - [Lesson](#lesson)      
