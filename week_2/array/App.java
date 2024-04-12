@@ -2,8 +2,7 @@ public class App {
     public static void main(String[] args) {
 
         // Array of Strings
-        String[] myfavefastfood = "KuyaJay", "AlingTising", "BurgerKing", "BonChon",
-        "KennyRogers" };
+        String[] myfavefastfood = { "KuyaJay", "AlingTising", "BurgerKing", "BonChon", "Chowking" };
 
         // Array of Integers
         int[] primeNumbers = { 2, 3, 5, 7 };
