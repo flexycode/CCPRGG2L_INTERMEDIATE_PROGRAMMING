@@ -123,7 +123,7 @@ java [java file name] 
 
 # 🔑 License 
 
-This course project repository is licensed under the MIT License and National University.
+This course project repository is licensed under the [MIT License and National University](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_PROGRAMMING/blob/main/LICENSE)
 
 ## National University of Manila License   
 
