@@ -1,3 +1,5 @@
+package StringBuilder;
+
 import java.util.Scanner;
 
 public class StringManipulator {
@@ -40,8 +42,9 @@ public class StringManipulator {
             }
         }
     }
-
-    private static void displayMenu() {
+    
+    private static void displayMenu() {    	
+    	// This method display the menu of the operations to the user ^_^
         System.out.println("\nChoose an operation:");
         System.out.println("1. Append");
         System.out.println("2. Insert");
@@ -52,6 +55,7 @@ public class StringManipulator {
     }
 
     private static void appendString() {
+    	// This method appends a string to the end to the end of the existing string ^_^
         System.out.print("Enter a string to append: ");
         String appendStr = scanner.nextLine();
         sb.append(appendStr);
@@ -59,6 +63,7 @@ public class StringManipulator {
     }
 
     private static void insertString() {
+    	// This method insert a portion of the existing string ^_^
         System.out.print("Enter a string to insert: ");
         String insertStr = scanner.nextLine();
         System.out.print("Enter the index to insert at: ");
@@ -68,6 +73,7 @@ public class StringManipulator {
     }
 
     private static void deleteString() {
+    	// This method delete a portion of the existing string ^_^
         System.out.print("Enter the starting index to delete: ");
         int startIndex = scanner.nextInt();
         System.out.print("Enter the length to delete: ");
@@ -77,11 +83,12 @@ public class StringManipulator {
     }
 
     private static void replaceString() {
+    	// This method replace a portion of the existing string ^_^
         System.out.print("Enter the starting index to replace: ");
         int replaceStartIndex = scanner.nextInt();
         System.out.print("Enter the length to replace: ");
         int replaceLength = scanner.nextInt();
-        scanner.nextLine(); // Consume the newline character
+        scanner.nextLine(); 
         System.out.print("Enter the replacement string: ");
         String replaceStr = scanner.nextLine();
         sb.replace(replaceStartIndex, replaceStartIndex + replaceLength, replaceStr);
@@ -89,6 +96,7 @@ public class StringManipulator {
     }
 
     private static void reverseString() {
+    	// This method reverse a portion of the existing string ^_^
         sb.reverse();
         System.out.println("Result: " + sb);
     }
