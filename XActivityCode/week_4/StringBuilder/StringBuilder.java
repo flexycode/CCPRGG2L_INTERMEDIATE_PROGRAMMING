@@ -9,7 +9,7 @@ public class StringBuilderOperations {
         System.out.print("Enter a string: ");
         String input = scanner.nextLine();
 
-        // Create a StringBuilder object from the input string
+        // Create a StringBuilder object from the input string  
         StringBuilder sb = new StringBuilder(input);
 
         // Flag to control the loop
