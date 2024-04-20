@@ -1,7 +1,6 @@
-import java.util.*;
-import java.util.concurrent.LinkedBlockingQueue;
- 
-public class SB {
+import java.util.Scanner*;
+
+public class StringBuilder {
     public static void main(String[] argv) throws Exception
     {
         // Create a StringBuilder object
