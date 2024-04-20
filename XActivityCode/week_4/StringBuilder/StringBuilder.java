@@ -1,17 +1,14 @@
 import java.util.Scanner;
 
-class StringOperations {
-    private StringBuilder sb;
-    private Scanner scanner;
+public class StringManipulator {
+    private static StringBuilder sb;
+    private static Scanner scanner = new Scanner(System.in);
 
-    public StringOperations() {
-        scanner = new Scanner(System.in);
+    public static void main(String[] args) {
         System.out.print("Enter a string: ");
         String input = scanner.nextLine();
         sb = new StringBuilder(input);
-    }
 
-    public void performOperations() {
         boolean continueOperations = true;
 
         while (continueOperations) {
@@ -44,7 +41,7 @@ class StringOperations {
         }
     }
 
-    private void displayMenu() {
+    private static void displayMenu() {
         System.out.println("\nChoose an operation:");
         System.out.println("1. Append");
         System.out.println("2. Insert");
@@ -54,14 +51,14 @@ class StringOperations {
         System.out.println("6. Exit");
     }
 
-    private void appendString() {
+    private static void appendString() {
         System.out.print("Enter a string to append: ");
         String appendStr = scanner.nextLine();
         sb.append(appendStr);
         System.out.println("Result: " + sb);
     }
 
-    private void insertString() {
+    private static void insertString() {
         System.out.print("Enter a string to insert: ");
         String insertStr = scanner.nextLine();
         System.out.print("Enter the index to insert at: ");
@@ -70,7 +67,7 @@ class StringOperations {
         System.out.println("Result: " + sb);
     }
 
-    private void deleteString() {
+    private static void deleteString() {
         System.out.print("Enter the starting index to delete: ");
         int startIndex = scanner.nextInt();
         System.out.print("Enter the length to delete: ");
@@ -79,7 +76,7 @@ class StringOperations {
         System.out.println("Result: " + sb);
     }
 
-    private void replaceString() {
+    private static void replaceString() {
         System.out.print("Enter the starting index to replace: ");
         int replaceStartIndex = scanner.nextInt();
         System.out.print("Enter the length to replace: ");
@@ -91,15 +88,8 @@ class StringOperations {
         System.out.println("Result: " + sb);
     }
 
-    private void reverseString() {
+    private static void reverseString() {
         sb.reverse();
         System.out.println("Result: " + sb);
-    }
-}
-
-public class Main {
-    public static void main(String[] args) {
-        StringOperations stringOperations = new StringOperations();
-        stringOperations.performOperations();
     }
 }
