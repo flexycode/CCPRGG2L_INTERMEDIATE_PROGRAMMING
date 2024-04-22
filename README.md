@@ -185,7 +185,6 @@ To be follow
 
 ### Changed
 - ✨ Changed documentatation
-- ✨ Changed some variable and refix function in both Lab Activity
 
 ### Fixed
 - ✨ Fixed commit error changes
