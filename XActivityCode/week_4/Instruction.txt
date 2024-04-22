@@ -1,0 +1,24 @@
+# Lab Activity 3 - String Handling and Manipulation
+
+## Instructions
+Create a program in JAVA using the StringBuilder class that the user has a choice to use the different methods in class in StringBuilder where the program can Append, Insert, Delete, Replace and Reverse the input string by the user.  
+
+Program Requirements:
+Append
+The user will enter any string 
+The program will ask the user what string to append.
+Insert 
+       - The user will enter any string
+       - The program will ask the user which index part of the input string is to insert the new inputted string
+
+Delete
+        - The user will enter any string
+        - The program will ask the user which starting index you want to start the delete methods and  how many length of string you want to delete
+
+Replace
+        - The user will enter any string
+        -  The program will ask the user which starting index you want to start the replace methods and  how many length of string you want to replace
+
+Reverse       
+        - The user will enter any string 
+        - The program will reverse the input string
