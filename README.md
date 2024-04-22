@@ -156,36 +156,36 @@ To be follow
 ```
 
 # 📫 Changelogs     
-## [4.1.1] - 2024-04-6     
-### Added
+## [4.1.4] - 2024-04-6      
+### Added 
 - ✨ Uploaded the Course Syllabus
 - ✨ Added breakdown and documentation
 
 ### Changed
 - ✨ revised icon
 
-### Fixed
+### Fixed 
 - ✨ Revised my documentaion
 
-## [4.1.1] - 2024-04-14      
-### Added 
+## [4.1.5] - 2024-04-14       
+### Added  
 - ✨ Added Exception-Handling Lab-1 Activity
 - ✨ Added File-Handling Lab-2 Activity
 
 ### Changed
-- ✨ Change documentary
+- ✨ Change documentation
 - ✨ Change some variable and refix function in both Lab Activity
 
 ### Fixed
 - ✨ Fixed commit error changes
 
-## [4.1.1] - 2024-04-20       
+## [4.1.4] - 2024-04-20        
 ### Added
 - ✨ Added StringBuilder.java for StringManipulation activity 
 
 ### Changed
-- ✨ Change documentary
-- ✨ Change some variable and refix function in both Lab Activity
+- ✨ Changed documentatation
+- ✨ Changed some variable and refix function in both Lab Activity
 
 ### Fixed
 - ✨ Fixed commit error changes
