@@ -1,5 +1,3 @@
-package Intermediate
-
 import java.util.regex.Pattern;
 import java.util.Scanner;
 import java.util.regex.Matcher;
