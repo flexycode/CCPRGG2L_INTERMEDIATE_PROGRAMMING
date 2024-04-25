@@ -189,6 +189,9 @@ To be follow
 ### Fixed
 - ✨ Fixed commit error changes
 
+###
+- ✨ Quiz
+
 #### [Back to Table of Content](#introduction)    
 
  
