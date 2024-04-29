@@ -188,6 +188,8 @@ To be follow
 
 ### Fixed
 - ✨ Fixed commit error changes
+- Fixed Systax error
+- Fixed build structure 
 
 ###
 - ✨ Quiz
