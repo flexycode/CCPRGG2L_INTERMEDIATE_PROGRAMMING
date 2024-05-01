@@ -39,7 +39,7 @@ At the end of the course, the studend must be able to:
 |----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 1        | April 6       | Class Orientation                                   | Course Syllabus                                                                                     |
 |          |               | - Ø University Mission & Vision                     |                                                                                                     |
-|          |               | - Ø College Mission & Vision                        |                                                                                                     | 
+|          |               | - Ø College Mission & Vision                        |                                                                                                     |  
 |          |               | - Ø Course Syllabi                                  |                                                                                                     | 
 |          |               | - Ø Lab Guidelines and Safety Review                |                                                                                                     |
 | 2        | April 6       | Arrays                                               | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce                                        |
@@ -192,9 +192,9 @@ To be follow
 - Fixed build structure 
 
 ## [4.1.4] - 2024-05-04 
+- ✨ Coming Soon 
 - ✨ Coming Soon
-- ✨
-- ✨    
+- ✨ Coming Soon
 ###
 - ✨ Quiz
 
