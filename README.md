@@ -179,8 +179,8 @@ To be follow
 ### Fixed
 - ✨ Fixed commit error changes
 
-## [4.1.4] - 2024-04-20        
-### Added
+## [4.1.4] - 2024-04-20         
+### Added 
 - ✨ Added StringBuilder.java for StringManipulation activity 
 
 ### Changed
@@ -191,6 +191,10 @@ To be follow
 - Fixed Systax error
 - Fixed build structure 
 
+## [4.1.4] - 2024-05-04 
+- ✨ Coming Soon
+- ✨
+- ✨    
 ###
 - ✨ Quiz
 
