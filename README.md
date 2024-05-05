@@ -192,12 +192,12 @@ To be follow
 - Fixed build structure 
 
 ## [4.1.4] - 2024-05-04 
+- ✨ Discussion regarding recursion
 - ✨ Coming Soon 
 - ✨ Coming Soon
-- ✨ Coming Soon
 ###
-- ✨ Quiz
-- 💻
+- ✨ 45 Minutes 
+- 💻 Long Quiz 
 
 #### [Back to Table of Content](#introduction)    
 
