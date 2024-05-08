@@ -188,16 +188,28 @@ To be follow
 
 ### Fixed
 - ✨ Fixed commit error changes
-- Fixed Systax error
-- Fixed build structure 
+- ✨ Fixed Systax error
+- ✨ Fixed build structure 
 
 ## [4.1.4] - 2024-05-04 
 - ✨ Discussion regarding recursion
 - ✨ Coming Soon 
 - ✨ Coming Soon
 ###
-- ✨ 45 Minutes 
-- 💻 Long Quiz 
+- 💻 45 Minutes 
+- 💻 Long Quiz
+
+## [4.1.5] - 2024-05-11         
+### Added 
+- ✨ Discussion material for Regular Expression (RegEx)
+
+### Changed
+- ✨ Changed documentatation
+
+### Fixed
+- ✨ Coming Soon
+- ✨ Coming Soon
+- ✨ Coming Soon 
 
 #### [Back to Table of Content](#introduction)    
 
