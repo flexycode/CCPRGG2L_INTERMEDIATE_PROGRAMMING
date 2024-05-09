@@ -1,0 +1,19 @@
+Java Polymorphism - Explained with Examples
+Unlock the versatility of Java polymorphism with practical examples. Master dynamic code behavior, enhancing your object-oriented programming skills seamlessly.
+
+Java Polymorphism
+Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
+
+Polymorphism uses those methods to perform different tasks. This allows us to perform a single action in different ways.
+
+For example, think of a superclass called Animal that has a method called animalSound(). Subclasses of Animals could be Pigs, Cats, Dogs, Birds - And they also have their own implementation of an animal sound (the pig oinks, and the cat meows, etc.):
+
+## See the code in Polymorphism_1 
+
+Now we can create Pig and Dog objects and call the animalSound() method on both of them:
+
+## See the code in Polymorphism_2 
+
+Why And When To Use "Inheritance" and "Polymorphism"?
+
+- It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
