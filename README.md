@@ -209,7 +209,6 @@ To be follow
 ### Fixed
 - ✨ Coming Soon
 - ✨ Coming Soon
-- ✨ Coming Soon 
 
 #### [Back to Table of Content](#introduction)    
 
