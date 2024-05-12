@@ -202,7 +202,7 @@ To be follow
 ## [4.1.5] - 2024-05-11         
 ### Added 
 - ✨ Discussion material for Regular Expression (RegEx)
-
+- ✨ Added Lab activity 4 for Regular Expression
 ### Changed
 - ✨ Changed documentatation
 
