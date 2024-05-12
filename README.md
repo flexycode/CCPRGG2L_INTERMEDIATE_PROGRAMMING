@@ -203,7 +203,8 @@ To be follow
 ### Added 
 - ✨ Discussion material for Regular Expression (RegEx)
 - ✨ Added Lab activity 4 for Regular Expression
-- 
+- ✨ Added source code example for Regular Expression (RegEx)
+  
 ### Changed
 - ✨ Changed documentatation
 
