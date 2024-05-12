@@ -193,9 +193,9 @@ To be follow
 
 ## [4.1.4] - 2024-05-04 
 - ✨ Discussion regarding recursion
-- ✨ Coming Soon 
-- ✨ Coming Soon
-###
+- ✨ Added Source code for recursion
+  
+### Activity
 - 💻 45 Minutes 
 - 💻 Long Quiz
 
@@ -203,12 +203,13 @@ To be follow
 ### Added 
 - ✨ Discussion material for Regular Expression (RegEx)
 - ✨ Added Lab activity 4 for Regular Expression
+- 
 ### Changed
 - ✨ Changed documentatation
 
-### Fixed
-- ✨ Coming Soon
-- ✨ Coming Soon
+### Activity
+- 💻 Lab Class
+- 💻 Lab Activity 4
 
 #### [Back to Table of Content](#introduction)    
 
