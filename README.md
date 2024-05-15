@@ -222,9 +222,9 @@ To be follow
 - ✨ Coming Soon
 
 ### Activity
-- 💻 Class Lecture d
+- 💻 Class Lecture 
 - 💻 Lab Class
-- 💻 Coming Soon
+- 💻 Lab Activity 5
 
 #### [Back to Table of Content](#introduction)    
 
