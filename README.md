@@ -225,6 +225,7 @@ To be follow
 - 💻 Class Lecture 
 - 💻 Lab Class
 - 💻 Lab Activity 5
+- 💻
 
 #### [Back to Table of Content](#introduction)    
 
