@@ -216,7 +216,6 @@ To be follow
 ### Added 
 - ✨ Coming Soon
 - ✨ Coming Soon
-- ✨ Coming Soon
   
 ### Changed
 - ✨ Coming Soon
