@@ -214,7 +214,7 @@ To be follow
 
 ## [4.1.5] - 2024-05-18         
 ### Added 
-- ✨ Coming Soon
+- ✨ Add Object and Classes java file 
 - ✨ Coming Soon
   
 ### Changed
