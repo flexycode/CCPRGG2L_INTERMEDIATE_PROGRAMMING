@@ -221,7 +221,7 @@ To be follow
 - ✨ Coming Soon
 
 ### Activity
-- 💻 Class Lecture 
+- 💻 Class Lecture about Classes and Object
 - 💻 Lab Class
 - 💻 Lab Activity 5
 
