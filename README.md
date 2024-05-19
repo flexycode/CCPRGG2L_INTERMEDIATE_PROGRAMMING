@@ -218,7 +218,7 @@ To be follow
 - ✨ Add Professor Jay example for object and classes java file
   
 ### Changed
-- ✨ Coming Soon
+- ✨ Move Object and Classes java file into folder week 6 to week 7 folder
 
 ### Activity
 - 💻 Class Lecture about Classes and Object
