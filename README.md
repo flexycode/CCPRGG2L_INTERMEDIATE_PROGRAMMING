@@ -215,7 +215,7 @@ To be follow
 ## [4.1.5] - 2024-05-18         
 ### Added 
 - ✨ Add Object and Classes java file 
-- ✨ Coming Soon
+- ✨ Add Professor Jay example for object and classes java file
   
 ### Changed
 - ✨ Coming Soon
