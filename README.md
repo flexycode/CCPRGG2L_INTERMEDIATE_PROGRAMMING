@@ -223,7 +223,7 @@ To be follow
 ### Activity
 - 💻 Class Lecture about Classes and Object
 - 💻 Lab Class
-- 💻 Lab Activity 5
+- 💻 Lab Activity 5 Object and Classes
 
 #### [Back to Table of Content](#introduction)    
 
