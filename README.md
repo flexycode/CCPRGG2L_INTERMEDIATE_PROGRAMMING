@@ -225,6 +225,20 @@ To be follow
 - 💻 Lab Class
 - 💻 Lab Activity 5 Object and Classes
 
+## [5.1.2] - 2024-05-25         
+### Added 
+- ✨ Add Instance and Inheritance
+- ✨ 
+  
+## [6.1.1] - 2024-06-01   
+- ✨
+- 
+### Activity
+- 💻 Long Quiz No. 2
+
+
+  
+
 #### [Back to Table of Content](#introduction)    
 
  
