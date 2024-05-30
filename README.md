@@ -231,8 +231,8 @@ To be follow
 - ✨ 
   
 ## [6.1.1] - 2024-06-01   
-- ✨
-- 
+- ✨ Coming Soon
+- ✨ Coming Soon
 ### Activity
 - 💻 Long Quiz No. 2
 
