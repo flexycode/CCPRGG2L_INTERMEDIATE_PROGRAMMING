@@ -227,7 +227,7 @@ To be follow
 
 ## [5.1.2] - 2024-05-25         
 ### Added 
-- ✨ Add Instance and Inheritance
+- ✨ Added Polymorphism code example 
 - ✨ 
   
 ## [6.1.1] - 2024-06-01   
