@@ -192,7 +192,7 @@ To be follow
 - ✨ Fixed build structure 
 
 ## [4.1.4] - 2024-05-04 
-- ✨ Discussion regarding recursion
+- ✨ Discussion regarding recursion 
 - ✨ Added Source code for recursion
   
 ### Activity
@@ -228,7 +228,7 @@ To be follow
 ## [5.1.2] - 2024-05-25         
 ### Added 
 - ✨ Added Polymorphism code example 
-- ✨ 
+  
   
 ## [6.1.1] - 2024-06-01   
 ### Activity
