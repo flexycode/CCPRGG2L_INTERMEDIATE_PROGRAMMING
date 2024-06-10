@@ -1,0 +1,17 @@
+// Instruction for this Quiz
+
+Create a java program that count the following inputs and reverse the string based on the given output below.
+
+// The Output should be like this precisely like this
+
+Output:
+
+Enter Any String: NatioNal Un@verSity 23
+
+Numbers in String: : 2
+
+Special Character in String: 1
+
+The Reverse string is : 32 ytiSrev@nU laNoitaN
+
+Press any key to continue...

@@ -30,32 +30,31 @@ At the end of the course, the studend must be able to:
 
 ###### ⚡ Course Outline: ACO -CI-F- 030(01) Course Outline - CCPRGG2L - COM
 
-# 💻 Lesson
+# 💻 Lesson 
 
 ### CCPRGG1L Table lecture
 #### Course Outline and Timeframe
 
-| Week No. | Date Coverage    |                                       Topic                                                                   | Reference                                                             |
-|----------|--------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------|
-| 1        | April 6          | Class Orientation                                                                                             | Course Syllabus                                                       |
-|          |                  | Ø University Mission & Vision                                                                                 |                                                                       |                |          |                  | Ø College Mission & Vision                                                                                    |                                                                       |
-|          |                  | Ø Course Syllabi                                                                                              |                                                                       |
-|          |                  | Ø Lab Guidelines and Safety Review                                                                            |                                                                       |
-| 2        | April 6          | Arrays                                                                                                        | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce            |
-| 3        | April 13-17      | File and String manipulation                                                                                  | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce           |
-| 4        | April 20         | Recursion                                                                                                     | Chapter 2 Introduction to Programming in Java:                        |  
-|          | April 27         |                                                                                                               | An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick          |
-|          |                  |                                                                                                               | Chapter 13 Java Programming: From Problem Analysis to                 | 
-|          |                  |                                                                                                               | Program Design, Fifth Edition., Malik, DS                             |
-| 5        | May 4            | Regular Expression                                                                                            | Chapter 30 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
-| 6        | May 11           | Introduction to Classes                                                                                       | Chapter 3 Java Programming Eight Edition, Farrell, Joyce            |
-| 7        | May 18           | Composition, objects, and classes                                                                             | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd     Edition, Robert Sedgewick |
-| 8        | May 25           | Instance method Inheritance Polymorphism  | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition., Malik, DS |
-| 9        | June 1           | Introduction to Swing package             | Chapter 14 Java Programming Eight Edition, Farrell, Joyce           |
-| 10       | June 8           | Interfaces and event-driven programming   | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
-| 11       | June 15          | Threads                                   | Chapter 11 Java : The Complete Reference Tenth Edition, Schildt, Herbert, 2018 |
-| 12       | July 29          | Runnable interface Synchronization        | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017 |
-| 13       | July 6           | Course Synthesis & Final Examination      |                                                                       |
+| Week No. | Date Coverage | Topic                                                | Reference                                                                                           |
+|----------|---------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1        | April 6       | Class Orientation                                   | Course Syllabus                                                                                     |
+|          |               | - Ø University Mission & Vision                     |                                                                                                     |
+|          |               | - Ø College Mission & Vision                        |                                                                                                     |  
+|          |               | - Ø Course Syllabi                                  |                                                                                                     | 
+|          |               | - Ø Lab Guidelines and Safety Review                |                                                                                                     |
+| 2        | April 6       | Arrays                                               | Chapter 8&9 Java Programming Eight Edition, Farrell, Joyce                                        |
+| 3        | April 13      | File and String manipulation                         | Chapter 7&13 Java Programming Eight Edition, Farrell, Joyce                                       |
+| 4        | April 20      | Recursion                                            | Chapter 2 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
+|          | April 27      |                                                      | Chapter 13 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 5        | May 4         | Regular Expression                                   | Chapter 30 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 6        | May 11        | Introduction to Classes                              | Chapter 3 Java Programming Eight Edition, Farrell, Joyce                                          |
+| 7        | May 18        | Composition, objects, and classes                    | Chapter 3 Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition, Robert Sedgewick |
+| 8        | May 25        | Instance method Inheritance Polymorphism             | Chapter 10 Java Programming: From Problem Analysis to Program Design, Fifth Edition, Malik, DS     |
+| 9        | June 1        | Introduction to Swing package                        | Chapter 14 Java Programming Eight Edition, Farrell, Joyce                                         |
+| 10       | June 8        | Interfaces and event-driven programming              | Chapter 10 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 11       | June 15       | Threads                                              | Chapter 11 Java: The Complete Reference Tenth Edition, Schildt, Herbert, 2018                     |
+| 12       | June 22       | Runnable interface Synchronization                   | Chapter 11 Core Java: Volume II Advanced Features Tenth Edition, Hortsmann, Cay S., 2017           |
+| 13       | June 29        | Course Synthesis & Final Examination                 |                                                                                                     |
 
 
 #### SUGGESTED READINGS AND REFERENCES 
@@ -101,13 +100,12 @@ coming soon
 
 🤖 Compile the Java code using javac and run the compiled program with java.
 
-
 ```bash
-javac ProgScanner.java
-java ProgScanner
+javac [java file name] 
+java [java file name] 
 ```
 
-# 🏆 Contributing 
+# 🏆 Contributing  
 
 
 ### 🧠 Submitting Changes
@@ -125,7 +123,7 @@ java ProgScanner
 
 # 🔑 License 
 
-This course project repository is licensed under the MIT License and National University.
+This course project repository is licensed under the [MIT License and National University](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_PROGRAMMING/blob/main/LICENSE)
 
 ## National University of Manila License   
 
@@ -149,7 +147,7 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 # 🔭Acknowledgements   
 
-### ✨ Professor Jay A. Abaleta 
+### ✨ Professor Jay A. Abaleta  
 Professor Jay Abaleta is a Senior Software Engineer and esteemed faculty member at National University. With a strong background in teaching the core principles and advanced concepts of Java, he is highly regarded in the field. In addition to his role at National University, Prof. Abaleta also serves as a Professor at Adamson University and as a lecturer of IT/CS at Arba Minch University, sharing his expertise with students worldwide. Having studied at St. Paul University Philippines, Prof. Abaleta brings a wealth of knowledge and experience to his teaching. Known for his friendly and approachable nature, Prof. Abaleta fosters a positive learning environment where students thrive. His dedication and passion for teaching have made him a beloved professor among his students.
 
 # 💬FAQ    
@@ -158,16 +156,93 @@ To be follow
 ```
 
 # 📫 Changelogs     
-## [4.1.1] - 2024-04-6     
-### Added
-- Uploaded the Course Syllabus
-- Added breakdown and documentation
+## [4.1.4] - 2024-04-6      
+### Added 
+- ✨ Uploaded the Course Syllabus
+- ✨ Added breakdown and documentation
 
 ### Changed
 - ✨ revised icon
 
+### Fixed 
+- ✨ Revised my documentaion
+
+## [4.1.5] - 2024-04-14       
+### Added  
+- ✨ Added Exception-Handling Lab-1 Activity
+- ✨ Added File-Handling Lab-2 Activity
+
+### Changed
+- ✨ Change documentation
+- ✨ Change some variable and refix function in both Lab Activity
+
 ### Fixed
-- Revised my documentaion
+- ✨ Fixed commit error changes
+
+## [4.1.4] - 2024-04-20         
+### Added 
+- ✨ Added StringBuilder.java for StringManipulation activity 
+
+### Changed
+- ✨ Changed documentatation
+
+### Fixed
+- ✨ Fixed commit error changes
+- ✨ Fixed Systax error
+- ✨ Fixed build structure 
+
+## [4.1.4] - 2024-05-04 
+- ✨ Discussion regarding recursion 
+- ✨ Added Source code for recursion
+  
+### Activity
+- 💻 45 Minutes 
+- 💻 Long Quiz
+
+## [4.1.5] - 2024-05-11         
+### Added 
+- ✨ Discussion material for Regular Expression (RegEx)
+- ✨ Added Lab activity 4 for Regular Expression
+- ✨ Added source code example for Regular Expression (RegEx)
+  
+### Changed
+- ✨ Changed documentatation
+
+### Activity
+- 💻 Lab Class
+- 💻 Lab Activity 4
+
+## [4.1.5] - 2024-05-18         
+### Added 
+- ✨ Add Object and Classes java file 
+- ✨ Add Professor Jay example for object and classes java file
+  
+### Changed
+- ✨ Move Object and Classes java file into folder week 6 to week 7 folder
+
+### Activity
+- 💻 Class Lecture about Classes and Object
+- 💻 Lab Class
+- 💻 Lab Activity 5 Object and Classes
+
+## [5.1.2] - 2024-05-25         
+### Added 
+- ✨ Added Polymorphism code example 
+  
+  
+## [6.1.1] - 2024-06-01   
+### Activity
+- 💻 Long Quiz No. 2
+
+## [6.1.1] - 2024-06-08   
+- ✨ Coming Soon
+- ✨ Coming Soon
+### Activity
+- 💻 Coming Soon
+
+
+
+  
 
 #### [Back to Table of Content](#introduction)    
 

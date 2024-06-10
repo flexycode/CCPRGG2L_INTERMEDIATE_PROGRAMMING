@@ -1,0 +1,15 @@
+# Lab Activity 4 - Regular Expression
+
+### Instructions
+
+* Create a program that validate the user input using regular expression for the format of Email address and Contact Mobile number. 
+* The program will use the matcher, pattern and Matches. 
+* Evaluate the input, if the format is correct for email address. 
+* Print the message "VALID EMAIL ADDRESS" and for Mobile number print the message "VALID CONTACT NUMBER" otherwise "Invalid EMAIL and MOBILE NUMBER".
+
+#### Output:
+
+// Sample format:
+
+Email:  magicMan99@Lucky.com
+Mobile Number: +63-918-267-2289
