@@ -6,7 +6,7 @@ public class App {
         // The name property cannot be accessed outside of the Person class.
         // Me.name;
 
-        Me.setName("Jay");
+        Me.setName("Jay Arre");
 
         String myName = Me.getName();
 
