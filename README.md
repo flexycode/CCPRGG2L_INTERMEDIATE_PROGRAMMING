@@ -232,14 +232,14 @@ To be follow
   
 ## [6.1.1] - 2024-06-01   
 ### Activity
-- 💻 Long Quiz No. 2      
+- 💻 Long Quiz No. 2        
 
-## [6.1.3] - 2024-06-08    
+## [6.1.3] - 2024-06-08     
 - ✨ Add 2 Sample of JButton     
 - ✨ Add Java file for JCheckBox   
 - ✨ Add Java file for JComboBox       
-- ✨ Add Java file for JFrame  
-- ✨         
+- ✨ Add Java file for JFrame   
+- ✨ Add Java file for JLabel         
 - ✨  
 - ✨ 
 - ✨
