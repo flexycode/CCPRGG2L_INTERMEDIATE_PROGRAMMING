@@ -225,20 +225,20 @@ To be follow
 - 💻 Lab Class
 - 💻 Lab Activity 5 Object and Classes
 
-## [5.1.2] - 2024-05-25         
+## [5.1.2] - 2024-05-25          
 ### Added 
 - ✨ Added Polymorphism code example 
   
   
 ## [6.1.1] - 2024-06-01   
 ### Activity
-- 💻 Long Quiz No. 2    
+- 💻 Long Quiz No. 2      
 
 ## [6.1.3] - 2024-06-08    
 - ✨ Add 2 Sample of JButton     
 - ✨ Add Java file for JCheckBox   
 - ✨ Add Java file for JComboBox       
-- ✨ Coming Soon  
+- ✨ Add Java file for JFrame  
 - ✨         
 - ✨  
 - ✨ 
