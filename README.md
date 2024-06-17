@@ -238,12 +238,12 @@ To be follow
 - ✨ Add 2 Sample of JButton     
 - ✨ Add Java file for JCheckBox   
 - ✨ Add Java file for JComboBox       
-- ✨ Add Java file for JFrame   
+- ✨ Add Java file for JFrame    
 - ✨ Add Java file for JLabel         
 - ✨ Add JList Java file folder for Single & Multiple Selection  
-- ✨ Add Java file for JPanel
+- ✨ Add Java file for JPanel 
 - ✨ Add Java file for JRadioButton
-- ✨                        
+- ✨ Add 3 file folder for Layout: ( BorderLayout, FlowLayout and GridLayout )                        
 ### Activity
 - 💻 Lab Lecture - Introduction to Swing Packages 
 
