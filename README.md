@@ -232,7 +232,7 @@ To be follow
   
 ## [6.1.1] - 2024-06-01   
 ### Activity
-- 💻 Long Quiz No. 2           
+- 💻 Long Quiz No. 2                
 
 ## [6.1.3] - 2024-06-08     
 - ✨ Add 2 Sample of JButton     
@@ -242,7 +242,7 @@ To be follow
 - ✨ Add Java file for JLabel         
 - ✨ Add JList Java file folder for Single & Multiple Selection  
 - ✨ Add Java file for JPanel
-- ✨
+- ✨ Add Java file for JRadioButton
 - ✨                        
 ### Activity
 - 💻 Lab Lecture - Introduction to Swing Packages 
