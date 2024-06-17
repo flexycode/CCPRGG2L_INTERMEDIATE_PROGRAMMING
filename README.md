@@ -235,7 +235,8 @@ To be follow
 - 💻 Long Quiz No. 2  
 
 ## [6.1.3] - 2024-06-08    
-- ✨ Add 2 Sample of JButton     
+- ✨ Add 2 Sample of JButton    
+- ✨ Add Java file for JCheckBox     
 - ✨ Coming Soon   
 ### Activity
 - 💻 Lab Lecture - Introduction to Swing Packages 
