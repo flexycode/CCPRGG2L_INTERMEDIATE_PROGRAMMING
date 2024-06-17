@@ -232,12 +232,18 @@ To be follow
   
 ## [6.1.1] - 2024-06-01   
 ### Activity
-- 💻 Long Quiz No. 2  
+- 💻 Long Quiz No. 2    
 
 ## [6.1.3] - 2024-06-08    
-- ✨ Add 2 Sample of JButton    
-- ✨ Add Java file for JCheckBox     
-- ✨ Coming Soon   
+- ✨ Add 2 Sample of JButton     
+- ✨ Add Java file for JCheckBox   
+- ✨ Add Java file for JComboBox       
+- ✨ Coming Soon  
+- ✨         
+- ✨  
+- ✨ 
+- ✨
+- ✨                       
 ### Activity
 - 💻 Lab Lecture - Introduction to Swing Packages 
 
