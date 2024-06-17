@@ -195,7 +195,7 @@ To be follow
 - ✨ Discussion regarding recursion 
 - ✨ Added Source code for recursion
   
-### Activity
+### Activity 
 - 💻 45 Minutes 
 - 💻 Long Quiz
 
@@ -232,11 +232,11 @@ To be follow
   
 ## [6.1.1] - 2024-06-01   
 ### Activity
-- 💻 Long Quiz No. 2
+- 💻 Long Quiz No. 2  
 
 ## [6.1.3] - 2024-06-08    
-- ✨ Coming Soon   
-- ✨ Coming Soon  
+- ✨ Add 2 Sample of JButton     
+- ✨ Coming Soon   
 ### Activity
 - 💻 Lab Lecture - Introduction to Swing Packages 
 
