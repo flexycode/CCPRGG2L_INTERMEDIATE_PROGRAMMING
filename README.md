@@ -157,7 +157,7 @@ To be follow
 
 # 📫 Changelogs     
 ## [4.1.4] - 2024-04-6      
-### Added 
+### Added  
 - ✨ Uploaded the Course Syllabus
 - ✨ Added breakdown and documentation
 
@@ -226,30 +226,34 @@ To be follow
 - 💻 Lab Activity 5 Object and Classes
 
 ## [5.1.2] - 2024-05-25          
-### Added 
+### Added    
 - ✨ Added Polymorphism code example 
   
   
 ## [6.1.1] - 2024-06-01   
 ### Activity
-- 💻 Long Quiz No. 2                
+- 💻 Long Quiz No. 2                 
 
-## [6.1.3] - 2024-06-08     
+## [6.1.10] - 2024-06-08
+### Added
 - ✨ Add 2 Sample of JButton     
-- ✨ Add Java file for JCheckBox   
-- ✨ Add Java file for JComboBox       
+- ✨ Add Java file for JCheckBox    
+- ✨ Add Java file for JComboBox        
 - ✨ Add Java file for JFrame    
-- ✨ Add Java file for JLabel         
-- ✨ Add JList Java file folder for Single & Multiple Selection  
+- ✨ Add Java file for JLabel          
+- ✨ Add JList Java file folder for Single & Multiple Selection   
 - ✨ Add Java file for JPanel 
 - ✨ Add Java file for JRadioButton
 - ✨ Add 3 file folder for Layout: ( BorderLayout, FlowLayout and GridLayout )                        
-### Activity
+### Activity 
 - 💻 Lab Lecture - Introduction to Swing Packages 
 
-## [6.1.1] - 2024-06-15      
-- ✨ Coming Soon 
+## [6.1.1] - 2024-06-15
+### Added
+- ✨ Add Java file for Image as Background       
 - ✨ Coming Soon
+### Activity 
+- 💻 Lab Lecture - Introduction to Swing Packages
  
 
   
