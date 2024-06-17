@@ -16,7 +16,7 @@
 - [FAQ](#faq)      
 - [Changelog](#changelogs)  
 
-## [Introduction](#introduction)
+## [Introduction](#introduction) 
 This repository contains source code for a Java project that focuses on Intermediate concepts, codes and exercises.
 
 #### Course Description:
@@ -213,7 +213,7 @@ To be follow
 - 💻 Lab Activity 4
 
 ## [4.1.5] - 2024-05-18         
-### Added 
+### Added  
 - ✨ Add Object and Classes java file 
 - ✨ Add Professor Jay example for object and classes java file
   
@@ -244,19 +244,18 @@ To be follow
 - ✨ Add JList Java file folder for Single & Multiple Selection   
 - ✨ Add Java file for JPanel 
 - ✨ Add Java file for JRadioButton
-- ✨ Add 3 file folder for Layout: ( BorderLayout, FlowLayout and GridLayout )                        
+- ✨ Add 3 file folder for Layout: ( BorderLayout, FlowLayout and GridLayout )                         
 ### Activity 
 - 💻 Lab Lecture - Introduction to Swing Packages 
 
 ## [6.1.1] - 2024-06-15
 ### Added
 - ✨ Add Java file for Image as Background       
-- ✨ Coming Soon
-### Activity 
+- ✨ Add Java file for MouseEvents
+- ✨ Add Java Application: Snake Game     
+### Activity   
 - 💻 Lab Lecture - Introduction to Swing Packages
  
-
-  
 
 #### [Back to Table of Content](#introduction)    
 
