@@ -235,10 +235,10 @@ To be follow
 - 💻 Long Quiz No. 2
 
 ## [6.1.3] - 2024-06-08    
-- ✨ Coming Soon  
-- ✨ Coming Soon
+- ✨ Coming Soon   
+- ✨ Coming Soon  
 ### Activity
-- 💻 Lab Lecture  
+- 💻 Lab Lecture - Introduction to Swing Packages 
 
 ## [6.1.1] - 2024-06-15      
 - ✨ Coming Soon 
