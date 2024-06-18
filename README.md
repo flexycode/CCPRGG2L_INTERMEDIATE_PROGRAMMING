@@ -225,7 +225,7 @@ To be follow
 - 💻 Lab Class
 - 💻 Lab Activity 5 Object and Classes
 
-## [5.1.2] - 2024-05-25          
+## [5.1.2] - 2024-05-25           
 ### Added    
 - ✨ Added Polymorphism code example 
   
@@ -248,15 +248,21 @@ To be follow
 ### Activity 
 - 💻 Lab Lecture - Introduction to Swing Packages 
 
-## [6.1.1] - 2024-06-15
-### Added
+## [6.1.1] - 2024-06-15   
+### Added 
 - ✨ Add Java file for Image as Background       
 - ✨ Add Java file for MouseEvents
 - ✨ Add Java Application: Snake Game     
 ### Activity   
 - 💻 Lab Lecture - Introduction to Swing Packages
- 
 
+## [6.1.1] - 2024-06-22     
+### Added 
+- ✨ Coming Soon         
+- ✨ Coming Soon
+- ✨ Coming Soon     
+
+ 
 #### [Back to Table of Content](#introduction)    
 
  
