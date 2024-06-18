@@ -258,8 +258,8 @@ To be follow
 
 ## [6.1.1] - 2024-06-22     
 ### Added 
-- ✨ Coming Soon         
-- ✨ Coming Soon
+- ✨ Add Thread topic and source code         
+- ✨ Add Multithreading with 3 sample Java file
 - ✨ Coming Soon     
 
  
