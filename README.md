@@ -233,7 +233,7 @@ To be follow
 ## [6.1.1] - 2024-06-01   
 ### Activity
 - 💻 Long Quiz No. 2                 
-
+ 
 ## [6.1.10] - 2024-06-08
 ### Added
 - ✨ Add 2 Sample of JButton     
@@ -256,11 +256,10 @@ To be follow
 ### Activity   
 - 💻 Lab Lecture - Introduction to Swing Packages
 
-## [6.1.1] - 2024-06-22     
+## [6.1.2] - 2024-06-22       
 ### Added 
 - ✨ Add Thread topic and source code         
-- ✨ Add Multithreading with 3 sample Java file
-- ✨ Coming Soon     
+- ✨ Add Multithreading with 3 sample Java file       
 
  
 #### [Back to Table of Content](#introduction)    
