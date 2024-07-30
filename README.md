@@ -4,6 +4,7 @@
 ### Professor: Jay D. Abaleta          
 ### No. of Units: 3 Units
 ### Prerequisite: [CCPRGG1L Fundamentals of Programming](https://github.com/flexycode/CCPRGG1L_FUNDAMENTALS_COM23P)
+### GPA : 3.50 [Passed](https://www.youtube.com/watch?v=19fUYjhGy0c)
 
 # 📊 Table of Contents
 
