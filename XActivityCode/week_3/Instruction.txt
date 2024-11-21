@@ -1,0 +1,19 @@
+# Lab Activity 1 - Exception Handling
+
+## Instructions
+Create a java Program use the exception handling to Compile and run the Test Exceptions
+program.  The program will ask the user to input the array index to validate the exception handling in Array Exception, The output should look like this:
+
+array value of: One, Two, Three
+
+Enter Array Index: 1
+Output:
+Array Element = Two
+Exception: Caught
+
+Enter Array Index: 6
+Output:
+Index 6 out of bounds for length 3
+
+Quitting...
+

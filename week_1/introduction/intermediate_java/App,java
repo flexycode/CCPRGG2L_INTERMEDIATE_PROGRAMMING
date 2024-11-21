@@ -1,0 +1,49 @@
+package IntermediateJava;
+
+public class IntermediateJava {
+    public static void main(String[] args) {
+        // Variables and Data Types
+        int age = 25;
+        double height = 1.75;
+        String name = "John";
+
+        // Conditional Statements
+        if (age >= 18) {
+            System.out.println(name + " is an adult.");
+        } else {
+            System.out.println(name + " is a minor.");
+        }
+
+        // Loops
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Loop iteration: " + i);
+        }
+
+        // Arrays
+        String[] fruits = {"Apple", "Banana", "Orange"};
+        System.out.println("First fruit: " + fruits[0]);
+
+        // Classes and Objects
+        Person person = new Person("Alice", 30);
+        System.out.println("Person name: " + person.getName());
+        System.out.println("Person age: " + person.getAge());
+    }
+}
+
+class Person {
+    private String name;
+    private int age;
+
+    public Person(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+}
